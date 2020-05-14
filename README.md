@@ -1,2 +1,5 @@
 # boule-de-cristal-LCD
-Boule de cristal avec écran LCD
+
+Arduino Project : Boule de cristal avec écran LCD
+
+#Youtube tutorial : https://youtu.be/QsRocjy8CEM
